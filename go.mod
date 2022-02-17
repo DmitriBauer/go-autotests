@@ -7,6 +7,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-resty/resty/v2 v2.6.0
 	github.com/gofrs/uuid v4.0.0+incompatible
+	github.com/google/pprof v0.0.0-20220128192902-513e8ac6eea1
 	github.com/jackc/fake v0.0.0-20150926172116-812a484cc733 // indirect
 	github.com/jackc/pgx v3.6.2+incompatible
 	github.com/jingyugao/rowserrcheck v1.1.0
